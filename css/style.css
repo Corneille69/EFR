@@ -274,6 +274,21 @@ footer a {
   .navbar li {
     margin: 10px 0;
   }
+   .groupes{
+    width: 100%;
+    
+  }
+  .groupes .btn1 {
+    position: relative;
+    top: -3VH;
+  }
+  .description{
+    width: 100%;
+    
+  }
+  h3 {
+    width:30vh;
+  }
 }
 
 /* === Mode sombre === */
