@@ -281,6 +281,7 @@ footer a {
   .groupes .btn1 {
     position: relative;
     top: -3VH;
+    
   }
   .description{
     width: 100%;
@@ -288,6 +289,8 @@ footer a {
   }
   h3 {
     width:30vh;
+    text-align: center;
+    aligne-items:center;
   }
 }
 
